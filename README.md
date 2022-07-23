@@ -1,2 +1,3 @@
 # MaquinaEstados
- 
+
+![Diagrama](diagrama.png)
