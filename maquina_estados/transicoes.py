@@ -9,6 +9,9 @@ class Transicao:
     def getTransicao(self):
         return self.proximoEstado
 
+'''
+sssh
+'''
 
 '''
       <a href="https://github.com/" class="btn" alt="KKK">
